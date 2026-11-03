@@ -13,7 +13,7 @@
 🌐 Links das minhas redes
 
 <div align="left">
-<a href="https://https://www.linkedin.com/in/gabriel-oliveira-0ba87b40b?utm_source=share_via&utm_content=profile&utm_medium=member_android/in/Meu_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-oliveira-0ba87b40b?utm_source=share_via&utm_content=profile&utm_medium=member_android/in/Meu_LINKEDIN" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:SEU_EMAIL">
